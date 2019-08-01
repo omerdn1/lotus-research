@@ -14,10 +14,10 @@
 | **DoRemember - connect with yourself**                 | [Website](https://doremember.xyz/)                                                                                                                  | Take note of your thoughts and emotions to be more mindful of every day and design your life the way you want it.                                                                                                                                                                                                                                 |
 
 ## Articles
-| Article | Description |
-| ------- | ----------- |
-| [Deep neural networks in psychiatry](https://www.nature.com/articles/s41380-019-0365-9) |  |
-| 💸 [Computational approaches<br/>and machine learning for individual-level treatment predictions](https://link.springer.com/article/10.1007%2Fs00213-019-05282-4) | |
-| [Predictors of mental health illness](https://www.kaggle.com/kairosart/machine-learning-for-mental-health-1) | |
-| [A machine learning approach to predicting psychosis<br/>using semantic density and latent content analysis](https://www.nature.com/articles/s41537-019-0077-9) | |
-| [A machine learning approach<br/>for the detection of depression and mental illness in Twitter](https://medium.com/datadriveninvestor/a-machine-learning-approach-for-detection-of-depression-and-mental-illness-in-twitter-3f3a32a4df60) | |
+| Article | Description | Free |
+| ------- | ----------- | ---- |
+| [Deep neural networks in psychiatry](https://www.nature.com/articles/s41380-019-0365-9) |  | ✅ |
+| 💸 [Computational approaches<br/>and machine learning for individual-level treatment predictions](https://link.springer.com/article/10.1007%2Fs00213-019-05282-4) | | ❌ |
+| [Predictors of mental health illness](https://www.kaggle.com/kairosart/machine-learning-for-mental-health-1) | | ✅ |
+| [A machine learning approach to predicting psychosis<br/>using semantic density and latent content analysis](https://www.nature.com/articles/s41537-019-0077-9) | | ✅ |
+| [A machine learning approach<br/>for the detection of depression and mental illness in Twitter](https://medium.com/datadriveninvestor/a-machine-learning-approach-for-detection-of-depression-and-mental-illness-in-twitter-3f3a32a4df60) | | ✅ |
