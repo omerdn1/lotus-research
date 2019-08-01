@@ -21,3 +21,8 @@
 | [Predictors of mental health illness](https://www.kaggle.com/kairosart/machine-learning-for-mental-health-1) | | ✅ |
 | [A machine learning approach to predicting psychosis<br/>using semantic density and latent content analysis](https://www.nature.com/articles/s41537-019-0077-9) | | ✅ |
 | [A machine learning approach<br/>for the detection of depression and mental illness in Twitter](https://medium.com/datadriveninvestor/a-machine-learning-approach-for-detection-of-depression-and-mental-illness-in-twitter-3f3a32a4df60) | | ✅ |
+
+## Programming
+[Tensorflow.js](https://www.tensorflow.org/js)  
+[TensorFlow.js Training in Node.js Codelab](https://codelabs.developers.google.com/codelabs/tensorflowjs-nodejs-codelab/#0)  
+[Hands-On Machine Learning with TensorFlow.js (including "Predicting Mental Health Issues Using Logistic Regression")](https://www.oreilly.com/library/view/hands-on-machine-learning/9781789613155/)
